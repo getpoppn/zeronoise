@@ -13,7 +13,7 @@
     "Zeronoise": {
       "primary": "2d2a3d", // Applies as solid color to Post Titles and to other text as a tint 
       "secondary": "f4f4f9", // Applies to the background and .nav-pills>li a.active
-      "tertiary": "4f31cd", // Call to actions and links
+      "tertiary": "CBB26A", // Call to actions and links
       "quaternary": "ffffff", // You can see it in the top menu
       "header_background": "ffffff",
       "header_primary": "ffffff", // It's the text and icons color in the header
