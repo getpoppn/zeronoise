@@ -11,7 +11,7 @@
   },
   "color_schemes": {
     "Zeronoise": {
-      "primary": "2d2a3d", // Applies as solid color to Post Titles and to other text as a tint 
+      "primary": "CBB26A", // Applies as solid color to Post Titles and to other text as a tint 
       "secondary": "#FAF9F6", // Applies to the background and .nav-pills>li a.active
       "tertiary": "CBB26A", // Call to actions and links
       "quaternary": "ffffff", // You can see it in the top menu
